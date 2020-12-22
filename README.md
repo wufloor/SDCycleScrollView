@@ -9,7 +9,9 @@ pod 'SDCycleScrollView' , :git => 'https://github.com/wufloor/SDCycleScrollView.
 
 ### 更改记录：
 2020.12.22 -- fork版本 更新SDWebImage引用方式 （1.83）
+
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
 2020.10.31 -- 修复iOS14上系统自带pagecontrol显示不出来bug （已发布到1.82版本）
 
 2019.04.10 -- 适配SDWebImage 5.0.0
